@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f00cef5c488f11c44be287bc87249472
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Audi Type
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8310b4ab60c55504e980c0afcfc0841b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
